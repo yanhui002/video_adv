@@ -3,7 +3,7 @@ This is the official code for the paper "Sparse Adversarial Perturbations for Vi
 
 The code is tested on the tensorfow >= 1.3.0
 
-Please dowload the checkpoints from https://drive.google.com/open?id=1siPLmXrBByuF4gNJylTfGRZqzBMhoasA
+Please dowload the checkpoints from https://drive.google.com/file/d/1i-16KN9JEn4pvdvSKZt-J1HtwzQRE8xm/view?usp=sharing
 
 To run the code, please use the following command:
 
